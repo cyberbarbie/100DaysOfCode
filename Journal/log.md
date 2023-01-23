@@ -1,12 +1,26 @@
-# 100DaysOfCyberSecurity
-## Day 1 (01.01.23):
-Happy new year! Today on TryHackMe I continued on the SOC analyst path and reviewed what I learned last week regarding the basics of threat modeling and network intrusion models.
+# 100DaysOfDevSecOps journey with data and PM sprinkled in
+## Day 0 (01.22.23):
 
-I learned about MITRE and how it is a knowledge base that tracks Advanced Persistent Threats (APTs) and their tactics, techniques, and procedures. This helps understand how attacks occur which helps both mitigate and prevent attacks occuring in your environment.
+Back on that CP time, but finally getting around to this.  Now that I am past compensation/bonus and promotion time (salary bump solid, bonus nothing to write home about and same as last year, finally got promotion to Sr. Associate tho title may be changing once the screw up known as Talent 2.0 is rolled out -__-
 
-I explored the Diamond Model and cyber kill chain as well which are other models to understand the different phases an attacker goes through to execute an attack from reconnaissance (gathering research on the target) to actions on objective. 
+Anyway seeing these layoffs happeening all around and given the S.S.D.D (same s**t different day) conditions on my current job, the goal is now to pivot into something a bit more fulfilling.  Fulfilling on the scope, the financials and overall enjoyment (all of which have been lacking bad)
 
-I also did some light review on Security+, specifically on the CIA triad and ways to protect the confidentiality, integrity and availability of your data.
+GAMEPLAN:
+ - On the job: The focus is to get BAU out the way quick and re-center focus on learning skillsets.  I have some microcode to plan out, and have to get ready to start delivering reports again (note to self: fix python scripts and expand on them for easier time).  But the real focus will be on the following:
+     - Working with Dan and Joe P to learn more about storage and systems.  Can be very beneficial for a systems role or architect path.  
+     - Re-flesh out Microcode dashboard 2.1.  Let this become the overall replacement for the reports, which will lead to more time saved
+     - Continue to work on confluence page (may serve as inspiration for own page) and continue to document processes. 
+     - Begin developing proper software engineering practices for self + whomever cares to pay attention on the team (fingers crossed we still get a       SEP)
 
-## Day 2 (01.02.23):
-Day 2! I started off by reviewing the SDLC, the different phases that are involved in the software development process from planning the design requirements to continuous integration and continous delivery. I then refined my notes on virtualization and set up an SSL certificate on AWS for my personal site, taeluralexis.com. I have little to no knowledge of AWS so I'm looking forward to hosting some projects on it! I also automated the process of setting up VMs using Vagrant. I'll most likely end the night with some more studying on the Security+.  
+ - On my own: The focus will be continued skill improvement and side projects.  I have an interest in software development, data, cyber security and SRE.  The goal is to further this knowledge and transition into a role that can encompass one (or multiple) discipline and continue growing from there.  The focus will be on the following:
+     - Working through The Odin Project to get a better grasp on full stack development and learn Ruby
+     - Work through FreeCodeCamp to gain a better understanding on topics such as Docker, Kubernetes, CICD, web dev, etc
+     - Use Datacamp to re-enforce the knowledge gained from DS4A/Empowerment and solidify my data understanding
+     - (OPTIONAL/ON FENCE) Participate in DS4A/Data Engineering to learn more about data and systems engineering best practices
+     - Study and sit for the AWS Cloud Practitioner certification in February
+
+
+GOALS:
+     - To position myself to secure a role more aligned with my interests and goals
+     - To begin to develop a skillset that can be utilized in traditional job settings as well as side pursuits (contracting, volunteering)
+     
